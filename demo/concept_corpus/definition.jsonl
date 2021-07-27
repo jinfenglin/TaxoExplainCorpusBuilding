@@ -1,0 +1,66 @@
+{
+  "concept": "extensible metadata platform",
+  "definition": [
+    "The Extensible Metadata Platform (XMP) is the metadata associated with digital pictures.",
+    "Extensible Metadata Platform (XMP) is an open standard that is used by Experience Manager Assets for all metadata management.",
+    "Extensible Metadata Platform (XMP) is an XML - based for­mat modeled after which forms the foundation of the semantic Web initiative.",
+    "Extensible Metadata Platform (XMP) is an ISO standard, originally created by Adobe Systems Inc., for the creation, processing and interchange of standardized and custom metadata for digital documents and data sets."
+  ]
+}
+{
+  "concept": "jitter",
+  "definition": [
+    "Jitter and Latency are two terms that often get bandied about together, but are actually two distinctly different things.",
+    "Jitter is the fluctuation of latency over time — meaning a high standard deviation from your average ping.",
+    "Jitter is the variation in time delay between when a signal is transmitted and when it's received over a network connection.",
+    "Jitter is an issue that our team consistently works hard to make a thing of the past.",
+    "Jitter is the term that refers to the fluctuation of latency within a specific time frame.",
+    "Jitter is already a common user concern and, often times, its underlying cause is the difference in the average latency time of the packets.",
+    "Jitter is variation in that ping - - in other words, consistency",
+    "Jitter is the amount of variation in latency/response time, in milliseconds.",
+    "Jitter, latency and packet loss are all concerns for those using VoIP systems.",
+    "Jitter is a symptom of other problems."
+    "Jitter is the average difference between instantaneously measured jitter and the average instantaneous jitter throughout the transmission of a series of data packets."
+  ]
+}
+{
+  "concept": "write amplification",
+  "definition": [
+    "Write amplification is a critical parameter of SSD",
+    "Write amplification is an artifact of two constraints imposed by semiconductor physics and the design of NAND flash memory.",
+    "Write Amplification is the ratio of actual data written to the flash vs data requested by the host to write to the device.Write amplification occurs because the flash device is internally organized in pages and data can be written to it only on a page by page basis.Current Cactus Technologies products utilize NAND flash that has page size of either 4KB or 8KB.",
+    "Write amplification factor (WAF) is a numerical value that represents the amount of data a solid state storage controller has to write in relation to the amount of data that the host’s flash controller has to write.",
+    "Write amplification ( WA ) is an undesirable phenomenon associated with and (SSDs) where the actual amount of physical information written is a multiple of the logical amount intended to be written.",
+    "Write amplification ( WA ) is an undesirable phenomenon associated with and (SSDs) where the actual amount of information physically written to the storage media is a multiple of the logical amount intended to be written.",
+    "Write Amplification is fundamentally the result of data written to the flash memory divided by data written by the host.",
+    "Write amplification is an issue that occurs in solid state storage devices that can decrease the lifespan of the device and impact performance.",
+    "The write amplification of the SSDs themselve isn'T that bad.",
+    "Write amplification” is the amount of bytes we had to write to the disk for each one byte of newly flushed sstable data."
+  ]
+}
+{
+  "concept": "spectral theory",
+  "definition": [
+    "Spectral theory is in the basis of Gel’fand - Neumark theorem."
+  ]
+}
+{
+  "concept": "relative pronoun",
+  "definition": [
+    "A relative pronoun is a pronoun that heads an .",
+    "A relative pronoun is a word that introduces a dependent (or relative) clause and connects it to an independent clause.",
+    "A relative pronoun is a pronoun which introduces a relative clause.",
+    "A relative pronoun is a part of speech in that it is a word that replaces a noun.",
+    "The relative pronoun is the subject/object of the relative clause, so we do not repeat the subject/object:",
+    "A relative pronoun is a type of pronoun used to connect a (also known as an adjective clause ) to the main clause in a sentence.",
+    "A relative pronoun is a pronoun that introduces a relative clause."
+  ]
+}
+{
+  "concept": "lausavisa",
+  "definition": [
+    "Lausavisa is a traditional Icelandic yoked jumper worked in the wonderful .",
+    "Lausavisa is a traditional yoked jumper worked from the bottom - up.",
+    "Lausavisa is a poetic convention in Icelandic/Skaldic poetry - an interjection or a bit of a detour from the main narrative."
+  ]
+}

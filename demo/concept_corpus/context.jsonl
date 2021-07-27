@@ -1,0 +1,122 @@
+{
+  "concept": "spoken language ability",
+  "context": [
+    "Spoken language ability may have built on those"
+  ]
+}
+{
+  "concept": "extensible metadata platform",
+  "context": [
+    "The Extensible Metadata Platform is used by Adobe Lightroom and other programs.",
+    "The Extensible Metadata Platform (XMP) has largely superseded IIM's image file header structure, but the properties of the IPTC Core are synchronized between the technical structures of XMP and IIM by a vast majority of imaging software.",
+    "The Extensible Metadata Platform (XMP) has largely superseded IIM's file structure, but the IIM image attributes are defined in the IPTC Core schema for XMP and most image manipulation programs keep the XMP and non - XMP IPTC attributes synchronized.",
+    "Extensible Metadata Platform can also be embedded in JPEG 2000."
+  ]
+}
+{
+  "concept": "jitter",
+  "context": [
+    "Jitter can cause a display monitor to flicker, affect the performance of processors in personal computers, introduce clicks or other undesired effects in audio signals, and cause loss of transmitted data between network devices.",
+    "Jitter and packet loss are the most concerning of the three because calls can easily become inaudible.",
+    "Jitter makes this natural adaptation almost useless as the change in latency throws off your timing.",
+    "Jitter can lead to communication problems in the workplace, especially if you rely on phone and video calls over the internet.",
+    "Deterministic jitter has a known non - normal distribution.",
+    "Period jitter tends to be important in synchronous circuitry such as digital state machines where the error - free operation of the circuitry is limited by the shortest possible clock period (average period less maximum cycle jitter), and the performance of the circuitry is set by the average clock period.",
+    "Jitter can hinder this when working over networks.",
+    "Jitter can be likened to a traffic jam in which the data cannot move at a reasonable speed because all the packets have come to a junction at the same time and nothing can be loaded.",
+    "Packet jitter can cause flickering display monitors, delayed data transmission and poor processor performance.",
+    "Jitter may occur when IP packets are not delivered cleanly across the network.",
+    "Because jitter and latency often go hand - in - hand, a network with high jitter should be tested for high latency as well.",
+    "Random jitter typically follows a due to being caused by in an or due to the .",
+    "Jitter is sometimes referred to as \"ping spikes\" for this reason, because it is representative of occasional inconsistent spikes in latency.",
+    "IP jitter in VoIP communication can severely impact the call quality of telephony and video conferencing, even causing conversations to ‘drop out’, and become jumbled and difficult to understand.",
+    "Deterministic jitter is a type of clock or data signal jitter that is predictable and reproducible.",
+    "The jitter and total delay are not even close to be the same thing.",
+    "Acceptable Jitter in Different Applications The figures we are using above are for interactive video streaming.",
+    "Controlling jitter in the workplace requires some trial and error, as sometimes it can be difficult to pinpoint exactly why you’re experiencing problems.",
+    "Network jitter is the variance in latency between data packets.",
+    "Jitter may be caused by and with carriers of other signals.",
+    "Packet jitter is expressed as an average of the deviation from the network mean delay.",
+    "Jitter is measured and evaluated in various ways depending on the type of circuit under test.",
+    "Random Jitter, also called Gaussian jitter, is unpredictable electronic timing noise.",
+    "Jitter can be the difference between a successful voice over internet protocol (VoIP) call and a disastrous, glitchy one.",
+    "Sampling jitter is an important consideration in high - frequency signal conversion, or where the clock signal is especially prone to interference.",
+    "Jitter occurs whenever a regular signal becomes irregular as compared to a regular source, such as a clock.",
+    "Jitter is measured in milliseconds and can be devastating to real - time services such as video calls and VoIP calls.",
+    "Random jitter tends to add broadband noise while periodic jitter tends to add errant spectral components, \"birdys\".",
+    "Jitter can be quantified in the same terms as all time - varying signals, e.g., (RMS), or displacement.",
+    "Jitter is measured in milliseconds (ms).",
+    "Jitter shows up as different symptoms, depending on the application you're using.",
+    "Keeping jitter to a minimum begins by ensuring that your network is initially properly set up.",
+    "Minimal jitter means that users will still be able to comprehend the person on the other end of the call.",
+    "Jitter can be a problem if you’re running applications that rely on high performance.",
+    "Jitter is also referred technically as delay variation.",
+    "Acceptable jitter means what we are willing to accept as the irregular fluctuations in data transfers.",
+    "Acceptable jitter simply refers to the willingness to accept irregular fluctuations in transferring data.",
+    "Jitter in serial bus architectures is measured by means of .",
+    "Network jitter can be caused by a number of factors and sits in the same bracket of network performance complications as , and .",
+    "Monitoring jitter on an ongoing basis helps to make sure that your applications can run without being adversely affected.",
+    "Jitter is most tangibly felt in FPS games, especially with long - ranged characters where aim really matters — it’s worsened when you play projectile heroes like Hanzo or Orisa, but can even affect hitscan heroes.",
+    "Jitter can be caused by many different factors but there are a few common culprits that stand behind most common jitter problems.",
+    "While jitter and latency are closely tied together, they are very different in practice.",
+    "Jitter becomes a problem during voice calls because it is the most cited service where jitter has been shown to be really detrimental.",
+    "Deterministic jitter can either be correlated to the data stream  or uncorrelated to the data stream (bounded uncorrelated jitter).",
+    "Total jitter ( T ) is the combination of random jitter ( R ) and deterministic jitter ( D ) and is computed in the context to a required (BER) for the system:",
+    "If jitter has a , it is usually quantified using the of this distribution.",
+    "Jitter is when there is a time delay in the sending of these data packets over your network connection."
+  ]
+}
+{
+  "concept": "write amplification",
+  "context": [
+    "Write amplification plays a critical role in maximizing an SSD’s usable life.",
+    "Write amplification SSD is addressed in a number of different ways.",
+    "Write amplification goes down and SSD speed goes up when data compression and deduplication eliminates more redundant data.",
+    "Remember write amplification was introduced due to garbage collection in flash/SSD.",
+    "Write Amplification is integrated into the controller design of all SSDs, and unlike other factors that collaborate in maximizing the useful life of the device, this is not a technique that will double or triple its useful life, but it is very important for the longevity of the device.",
+    "Write amplification is defined as the amount of data written to the flash memory divided by the amount of data written by the host .",
+    "Write amplification in this phase will increase to the highest levels the drive will experience.",
+    "This write amplification can be somewhat reduced by increasing the amount of memory devoted to memtables – so that the size of the smallest sstables is larger and the number of tiers decreases.",
+    "Write amplification occurs because solid state storage cells must be erased before they can be rewritten to.",
+    "Write Amplification plays a critical role in the durability of an .",
+    "Write amplification is typically measured by the ratio of writes committed to the flash memory to the writes coming from the host system.",
+    "Although write amplification has a big impact on flash memory, it isn’t the only thing you should consider when selecting memory for an embedded application.",
+    "Write Amplification Explained in Backend Apps, Database Systems and SSDs by The Backend Engineering Show with Hussein Nasser • A podcast on Anchor"
+  ]
+}
+{
+  "concept": "spectral theory",
+  "context": [
+    "Spectral theory is connected with the investigation of localized vibrations of a variety of different objects, from and in to obstacles in .",
+    "Spectral Theory refers to the study of eigenvalues and eigenvectors of a matrix.",
+    "Spectral Theory offers a uniquely accessible introduction to ideas that invite further study in any number of different directions."
+  ]
+}
+{
+  "concept": "standard test and programming language",
+  "context": [
+    "Standard Test and Programming Language Known as: .jam , JAM/STAPL , JESD - 71 Expand JAM / STAPL (\"Standard Test and Programming Language\") is an Altera - developed standard for JTAG in - circuit programming of programmable logic devices… Create Alert Related topics Related topics 4 relations Papers overview Semantic Scholar uses AI to extract papers important to this topic."
+  ]
+}
+{
+  "concept": "relative pronoun",
+  "context": [
+    "A relative pronoun is used to connect a clause or phrase to a noun or pronoun.",
+    "A relative pronoun functions as a word that links two clauses into a single complex clause.",
+    "A relative pronoun used this way is sometimes called a fused relative pronoun , since the antecedent appears fused into the pronoun ( what in this example can be regarded as a fusion of that which ).",
+    "A relative pronoun fulfills two roles: it serves as both a pronoun and a connector.",
+    "The relative pronoun we use depends on what we are referring to and the type of relative clause.",
+    "Each relative pronoun can only be used to refer to a specific type of thing: you wouldn't talk about \"the pencil who\" or \"the teacher when.\"",
+    "The relative pronoun must be of the same number and person as its antecedent.",
+    "No relative pronoun In informal styles, we often leave out the relative pronoun.",
+    "The relative pronoun in each example is italicized.",
+    "The relative pronoun is omitted, and the preposition is kept at the end of the relative clause.)",
+    "The relative pronoun that can only be used in restrictive clauses."
+  ]
+}
+{
+  "concept": "lausavisa",
+  "context": [
+    "Lausavisa uses four colours (navy, pale blue, pale heathered grey/beige and mustard yellow) and is so incredibly cosy."
+  ]
+}
